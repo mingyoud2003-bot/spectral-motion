@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+opencv-python
+torch
+imageio
+imageio-ffmpeg
+ipython
+tabulate
